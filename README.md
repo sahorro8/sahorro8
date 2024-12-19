@@ -1,30 +1,36 @@
-## Hello, I'm Sam!
+# Hello, I'm Sam!
 
-## About Me
+# About Me
 I am a third year computer science student with a profound interest in both cybersecurity and software development.
 
-## My Objective
+# My Objective
 My goal is to build a career in cybersecurity, helping to protect systems and data while contributing to a safer digital world.
 
-## Skills
+# Certifications
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+# Projects
+
++ **Swift Medical Clinic JavaFX Application**
+
+  Swift Medical Clinic is a desktop application built using **JavaFX** that allows users to securely manage their medical information. It generates unique user IDs, allows appointment scheduling, and provides access to diagnoses and prescriptions.
+
+## Features
+- **Secure Data Storage**: PII and SPII management.
+- **Personalized User IDs**: For each patient.
+- **Appointment Scheduling**: Manage medical appointments.
+- **Prescription Management**: Access to prescriptions.
+
+## Project Repositories
+You can check out the source code for this project here:  
+[SwiftMedicalClinic GitHub Repository](https://github.com/loweizi/SwiftMedicalClinic)
 
 ## Tools
+- **JavaFX**  
+- **MySQL Database**  
+- **IntelliJ IDEA**
 
-## Certifications
 
-
-## Projects
-
--Swift Medical Clinic Desktop Application
 
 -Security Audit Detection Lab
 

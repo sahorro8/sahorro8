@@ -24,8 +24,8 @@ My goal is to build a career in cybersecurity, helping to protect systems and da
 
 ## Projects
 
--Swift Medical Clinic 
--
+-Swift Medical Clinic Desktop Application
+
 -Security Audit Detection Lab
 
 
